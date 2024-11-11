@@ -59,5 +59,5 @@ This dataset provides a comprehensive foundation for understanding urban air qua
 **Acknowledgements : **
 https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-data-repository
 
-**Notes: **
-**The notebook "Data_Science_IP_Project_checkpoint1_EDA.ipynb" contains interactive plots. To view all the EDA plots - please open the notebook in Colab or python runtime. **
+**Notes** : 
+**The notebook "Data_Science_IP_Project_checkpoint1_EDA.ipynb" contains interactive plots. To view all the EDA plots - please open the notebook in Colab or python runtime.**
