@@ -61,3 +61,7 @@ https://airquality.cpcb.gov.in/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-dat
 
 **Notes** : 
 **The notebook "Data_Science_IP_Project_checkpoint1_EDA.ipynb" contains interactive plots. To view all the EDA plots - please open the notebook in Colab or python runtime.**
+
+** To Save a Model for future use **
+# Save the model to the specified directory
+joblib.dump(rf_rscv, "/content/drive/MyDrive/DE_Scale_Project/DSIP_rf_rscv_model") 
